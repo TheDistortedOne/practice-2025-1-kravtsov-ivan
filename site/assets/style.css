@@ -104,3 +104,7 @@ figcaption {
     color: #666;
     margin-top: 8px;
 }
+.text section ul li {
+    padding-bottom: 8px;
+    font-size: 22px;
+}
